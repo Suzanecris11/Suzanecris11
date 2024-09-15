@@ -1,8 +1,6 @@
 # 👋 Hello! Bem-vindo ao meu perfil no GitHub!
 ## Meu nome é Suzane Souza, mas geralmente sou "Suzi"! 😄
 
-Bem-vindo ao meu perfil do GitHub. Estou iniciando minha carreira em desenvolvimento.
-
 Este perfil está em processo de criação.
 
 ## Ferramentas e Tecnologias
